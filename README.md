@@ -62,3 +62,30 @@ a random art image should then be displayed
 - Essentially everything again apart from `init` and `branch` if you not switching branches
 - `ssh -T git@github.com`
 - When you get RSA Key fingerprint question => `yes`
+### Common Commands
+Create file 
+`touch file_name`
+
+Delete file
+`rm file_name`
+
+Delete directory
+`rm -rf directory_name`
+
+Move file
+`mv file_name new_location/`
+
+Rename file
+`mv file_name new_file_name`
+
+Copy file
+`cp file location/`
+
+Edit file (using editor such as vi, nano)
+`editor file_name`
+
+See what is in the directory
+`ls directory/`
+
+See hidden files in directory also
+`ls -a directory/`
