@@ -6,7 +6,7 @@ measure and compare the impact of changes that take place in an organization. Wi
 
 ## Eisenhower principle
 “What is important is seldom urgent and what is urgent is seldom important.” — Dwight D. Eisenhower
-
+![](ThisPC/C:/Users/bengi/engineering_74/time_task_management/Eisenhower)
 1.	Priority 1 tasks are both urgent and important.
 2.	Priority 2 tasks are important but not urgent.
 3.	Priority 3 tasks are urgent but not important.
