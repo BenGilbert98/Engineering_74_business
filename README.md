@@ -3,9 +3,9 @@
 - Download Git or GitBash
 - Note: GitHub Desktop is superior
 - Run GitBash
-- `cd` to a place you please (Desktop works too)
+- `cd`
 - Make a folder (Anywhere you want)
-- Enter the folder `cd Sparta`
+- Enter the folder
 - Generate a key
 - `ssh-keygen -t rsa -b 4096 -C "your_email@email.com"`
 - Save as "key.ssh"
