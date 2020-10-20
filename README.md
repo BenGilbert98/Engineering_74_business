@@ -14,18 +14,8 @@
 - Make a passphase (Good practice)
 - `SHA256:YOUR_KEY_HERE your_email@email.com`
 
-"The key's randomart image is:"
-+---[RSA 4096]----+
-|   o.+....       |
-|    + Bo* .      |
-|     +.* * .     |
-|       o* B      |
-|      . SX = .   |
-|       o* * +    |
-|      .+E+ o .   |
-|     ...+++ .    |
-|      o==+o+     |
-+----[SHA256]-----+
+The key's randomart image is displayed
+
 
 - Check that `key.ssh` exists with `ls` in your `Sparta` folder
 - Ensure you have git-agent `eval $(ssh-agent -s)`
@@ -51,7 +41,7 @@
 - `git branch -M main` => Makes the "main" branch
 - `git remote add origin git@github.com:USER_NAME/Repo_name.git` => Link your folder to the github repo you've created (step 1)
 - `git push -u origin main` => Uploads all files
-- If you don't get any errors => PROFIT £££
+- If you don't get any errors continue
 - If you make changes to any files:
 - You need to add those files again (as above)
 - Make a new commit (again)
