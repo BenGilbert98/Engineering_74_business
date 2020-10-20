@@ -4,9 +4,7 @@
 - Note: GitHub Desktop is superior
 - Run GitBash
 - `cd` to a place you please (Desktop works too)
-- Example: `cd Desktop`
 - Make a folder (Anywhere you want)
-- Example: `mkdir Sparta`
 - Enter the folder `cd Sparta`
 - Generate a key
 - `ssh-keygen -t rsa -b 4096 -C "your_email@email.com"`
@@ -14,7 +12,7 @@
 - Make a passphase (Good practice)
 - `SHA256:YOUR_KEY_HERE your_email@email.com`
 
-The key's randomart image is displayed
+a random art image is displayed
 
 
 - Check that `key.ssh` exists with `ls` in your `Sparta` folder
@@ -34,7 +32,6 @@ The key's randomart image is displayed
 - If you want to add all files `git add *` or `git add .`
 - To add all files with similar name `git add some_*` => `*` is an ANY sign in linux
 - If you want to make a file `touch FILE_NAME.FORMAT`
-- Example: `touch README.md`
 - Edit the file either by manually opening it on your Explorer
 - or use `nano README.md` => Save with `CTRL + X` => `y`
 - `git commit -m "commit name"` => Commit all the files
@@ -49,5 +46,3 @@ The key's randomart image is displayed
 - Essentially everything again apart from `init` and `branch` if you not switching branches
 - `ssh -T git@github.com`
 - When you get RSA Key fingerprint question => `yes`
-- If you see "Hi USER! You've Successfully authenticated..." = GOOD
-- Save it 
