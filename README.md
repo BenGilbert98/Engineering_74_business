@@ -1,6 +1,6 @@
 # This is the guide to create git and github connection with SSH key
 
-- Download Git or GitBash (Mac and Linux has it already)
+- Download Git or GitBash
 - Note: GitHub Desktop is superior
 - Run GitBash
 - `cd` to a place you please (Desktop works too)
@@ -32,7 +32,7 @@ a random art image should then be displayed
 - If you want to add all files `git add *` or `git add .`
 - To add all files with similar name `git add some_*` => `*` is an ANY sign in linux
 - If you want to make a file `touch FILE_NAME.FORMAT`
-- Edit the file either by manually opening it on your Explorer
+- Edit the file
 - or use `nano README.md` => Save with `CTRL + X` => `y`
 - `git commit -m "commit name"` => Commit all the files
 - `git branch -M main` => Makes the "main" branch
