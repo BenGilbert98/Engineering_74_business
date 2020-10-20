@@ -12,7 +12,7 @@
 - Make a passphase (Good practice)
 - `SHA256:YOUR_KEY_HERE your_email@email.com`
 
-a random art image is displayed
+a random art image should then be displayed
 
 
 - Check that `key.ssh` exists with `ls` in your `Sparta` folder
