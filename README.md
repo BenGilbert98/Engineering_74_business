@@ -20,12 +20,12 @@ git push -u origin main
 - Note: GitHub Desktop is superior
 - Run GitBash
 - `cd`
-- Make a folder (Anywhere you want)
+- Make a folder 
 - Enter the folder
 - Generate a key
 - `ssh-keygen -t rsa -b 4096 -C "your_email@email.com"`
 - Save as "key.ssh"
-- Make a passphase (Good practice)
+- Make a passphase
 - `SHA256:YOUR_KEY_HERE your_email@email.com`
 
 a random art image should then be displayed
