@@ -60,4 +60,4 @@
 - `ssh -T git@github.com`
 - When you get RSA Key fingerprint question => `yes`
 - If you see "Hi USER! You've Successfully authenticated..." = GOOD
-- Save it => Profit £££
+- Save it 
