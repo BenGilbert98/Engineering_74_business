@@ -59,7 +59,6 @@ a random art image should then be displayed
 - You need to add those files again (as above)
 - Make a new commit (again)
 - Push to origin
-- Essentially everything again apart from `init` and `branch` if you not switching branches
 - `ssh -T git@github.com`
 - When you get RSA Key fingerprint question => `yes`
 ### Common Commands
