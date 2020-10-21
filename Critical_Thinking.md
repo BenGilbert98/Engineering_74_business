@@ -65,3 +65,19 @@ Naïve Relativism
 	- What are the strengths and weaknesses?
 	- How clear are the points?
 	- Is it a balanced argument?
+
+## What questions might we ask when critically thinking?
+	- What is the source of evidence?
+	- What did others see?
+	- Where is the evidence for these claims?
+	- What are the strengths and weaknesses?
+	- How clear are the points?
+	- Is it a balanced argument?
+
+### What is an argument?
+	- Exchange of diverging views based on views or research
+
+### Basic Structure
+	- Claim (Present your argument in a clear statement)
+	- Evidence (Present evidence to support your claim)
+        - Impact (Explain the significance of the evidence)
