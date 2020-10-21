@@ -90,6 +90,6 @@ See hidden files in directory also
 `ls -a directory/`
 
 Add image to file
-`![](file_location)
+`![](file_location)`
 
 to create markdown name_of_file.md
