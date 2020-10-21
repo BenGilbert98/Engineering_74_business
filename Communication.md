@@ -10,7 +10,7 @@
 	- Things might get done incorrectly
 	- Frustration
 
-### The effect on business
+## The effect on business
 	- Loss of potential business
 	- Mistakes
 	- Lack of co ordination
@@ -18,18 +18,18 @@
 	- Employee Frustration
 	- Poor Morale
 
-#### Barriers to Good Communication
+## Barriers to Good Communication
 	- Language Barrier
 	- Skill Barrier
 
-##### Positive Actions in the Workplace
+## Positive Actions in the Workplace
 	- Don’t stereotype
 	- Be open to ideas outside your beliefs
 	- Stay level headed and treat people with respect
 	- It isn't personal, the way people act in pressured environments isn't often a true representation of themselves
 	- Create an environment that thrives on Reciprocity 
 
-###### Understanding Communication - Cognitive Biases
+## Understanding Communication - Cognitive Biases
 	- Learning how we think sub consciously
 	- Correcting first judgements
 	- Anchoring Biases - Bias based on one piece of information
@@ -38,14 +38,14 @@
 	- Bandwagon - bias based on what others are doing.
 	- Over 175 biases
 
-####### Exploiting Bias in the Workplace
+## Exploiting Bias in the Workplace
 	- Reactance - telling people they can say no will more likely make them say yes
 	- Reciprocity - Be the first to give (The feeling of obligation to give when you receive)
 	- Door in the face - Forcing people to refuse a large request increases the likelihood of agreeing to a second, smaller request
 	- Likeability - give compliments and build cooperation (Freely give honest flatter)
 	- Social Proof-  People look to others to determine their own actions
 
-######## Not Every Situation Requires Immediate Reaction
+## Not Every Situation Requires Immediate Reaction
 	- Take time to understand situation
 	- Listen to their view before reacting
 	- Don’t respond with a definitive standpoint too quickly
@@ -56,12 +56,12 @@
 	- Take responsibility
 	- Adjust your body language / tone of voice to suit the situation
 
-########## Personality types
+## Personality types
 	- Understant each personality and how they work/think
 	- Establish how to approach them
 	- Adapt Accordingly
 
-########### Respect Differences
+## Respect Differences
 	- Each has their own style and ethic
 	- Be on the same team
         - It's your responsibility to make difficult relationships work.
