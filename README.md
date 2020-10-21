@@ -57,7 +57,7 @@ a random art image should then be displayed
 - Make a new commit `git commit -m "Message"`
 - Push to origin ` git push -u origin main`
 
-### Common Commands
+## Common Commands
 Create file 
 `touch file_name`
 
