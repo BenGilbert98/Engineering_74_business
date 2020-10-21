@@ -1,3 +1,4 @@
+# Critical Thinking
 ## What is Critical Thinking?
 - Develop techniques for thinking reading and writing critically
 - To understand the formal structure of a debate
