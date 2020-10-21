@@ -52,7 +52,7 @@ Naïve Relativism
 
 
 ## What is Enquiry-Based Learning?
-	- Learning based upon questions asked about a problem or incident in order to understand the situation and make a decision
+- Learning based upon questions asked about a problem or incident in order to understand the situation and make a decision
 
 
 ## The Enquiry Cycle
