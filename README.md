@@ -53,9 +53,9 @@ a random art image should then be displayed
 - `git push -u origin main` => Uploads all files
 
 ## Making Changes to files:
-- You need to add those files again (as above)
-- Make a new commit (again)
-- Push to origin
+- You need to add those files again `git add .`
+- Make a new commit `git commit -m "Message"
+- Push to origin ` git push -u origin main
 
 ### Common Commands
 Create file 
