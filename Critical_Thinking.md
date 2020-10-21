@@ -16,3 +16,52 @@
 
 ## Thinking Triangle
 Remember key facts , understand the fact, apply the understanding to try to solve problems. Analyse the solution to your problem and then synthesise the ideas by gathering all information into new solution.
+
+
+
+
+
+## Critical Thinking Processes
+
+Identify:
+- The main points identified
+- The claims being made
+- The evidence used
+- The conclusions reached
+
+Analyse:
+- Does the information make sense in relation to research?
+- How old is the material?
+- Is the material clear or do you need to find additional information to aid understanding?
+- Does the argument present a balanced view or are some topics disregarded?
+
+Apply:
+- The implications of other information
+- Weaknesses when applied to a real-life situation
+- A lack of coverage
+
+## Incorrect Attitudes
+Neither ways of thinking below are correct and will prevent you from embracing critical thinking with an open and objective mind
+
+Ignorant Certainty
+	- Belief that there are definite answers to all questions
+
+Naïve Relativism
+	- The belief that there is no truth and all arguments are equal
+
+
+
+## What is Enquiry-Based Learning?
+	- Learning based upon questions asked about a problem or incident in order to understand the situation and make a decision
+
+
+## The Enquiry Cycle
+
+
+## What questions might we ask when critically thinking?
+	- What is the source of evidence?
+	- What did others see?
+	- Where is the evidence for these claims?
+	- What are the strengths and weaknesses?
+	- How clear are the points?
+	- Is it a balanced argument?
