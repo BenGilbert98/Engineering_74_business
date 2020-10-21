@@ -56,7 +56,7 @@ The idea behind this diagram is that technology connects all the other sub trian
 
 ### Management Plans and SDLC's
 
-![](sdlc_chart)
+![](sdlc_chart.png)
 
 ## Attributes of mature teams
 - Co located
