@@ -115,3 +115,9 @@ Don't
  ## Logical Fallacies to look for
 False dichotomy - where the speaker forces the debate into two side, though there are more options available
 Assertion - When the speaker presents a statement as fact which appears invalid or may be an assumption
+Morally flawed - arguments which go against the code of ethics and morals
+Correlation rather than causation - when a speaker suggests a link between two events suggesting one lead to another
+Failure to deliver promises - might fail to complete a task such as evidence they said they'd provide
+Straw man - the speaker intentionally introduces an argument against them and rebut it to strengthen their position
+Contradictions - Speakers argument may contradict their previous argument and reduce their credibility
+Compare the conclusion to reality - Consider what would happen if the motion became reality.
