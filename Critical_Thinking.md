@@ -81,3 +81,37 @@ Naïve Relativism
 	- Claim (Present your argument in a clear statement)
 	- Evidence (Present evidence to support your claim)
         - Impact (Explain the significance of the evidence)
+## Evaluating an argument
+
+Coherence
+	- Do claims make logical sense?
+	- Are the claims based on opinion or supported with evidence
+	- Are any assumptions made?
+	- Have all alternatives been considered?
+
+Supporting Evidence
+	- Does the evidence support all claims made?
+	- What is quality of evidence?
+	- Quality of data?
+	- Quality of interpretation?
+
+## What if we want to challenge the argument?
+	- Acknowledge the other person's view before challenging it
+	- Be constructive rather than simply dismissing the other person's point of view
+	- Reflect on the strengths of the other person's argument
+	- Think about your language and whether you risk being offensive before you speak
+
+## Debating Language
+Do-s
+	- It can be argued that
+	- … tends to …
+	- There is evidence to suggest that
+	- It has been said that …
+Don't
+	- "I.."
+	- "I think that…"
+
+
+ ## Logical Fallacies to look for
+False dichotomy - where the speaker forces the debate into two side, though there are more options available
+Assertion - When the speaker presents a statement as fact which appears invalid or may be an assumption
