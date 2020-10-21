@@ -129,7 +129,7 @@ Naïve Relativism
 - Pathos - Appealing through emotional empathy (Passionate Delivery)
 - Logos - Appealing through logic and reasoning (Using facts)
 
-## Important skills for debate
+## Important skills for persuasion and debate
 - Keep points relevant
 - Provide evidence and not opinion
 - Remain objective
