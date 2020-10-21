@@ -88,3 +88,5 @@ See what is in the directory
 
 See hidden files in directory also
 `ls -a directory/`
+
+to create markdown name_of_file.md
