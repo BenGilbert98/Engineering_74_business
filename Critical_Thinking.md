@@ -122,3 +122,32 @@ Naïve Relativism
 - Straw man - the speaker intentionally introduces an argument against them and rebut it to strengthen their position
 - Contradictions - Speakers argument may contradict their previous argument and reduce their credibility
 - Compare the conclusion to reality - Consider what would happen if the motion became reality.
+
+# The Art of Persuasion
+- Ethos - Appealing through authority or credibility (Convincing audience they are qualified to speak on it.)
+- Pathos - Appealing through emotional empathy (Passionate Delivery)
+- Logos - Appealing through logic and reasoning (Using facts)
+
+## Important skills for debate
+- Keep points relevant
+- Provide evidence and not opinion
+- Remain objective
+- Consider audience's attention span
+- Use notes but keep them brief and organised
+- Accept mistakes and apologise for them
+- It's okay to agree with someone
+
+### Do
+- Be prepared
+- Stay calm
+- Speak clearly and confidently
+- Keep language simple
+- Active listening
+
+### Don't
+- Falsify or alter evidence
+- Publicly disagree with decision
+- Attack a speaker rather than the motion
+- Act aggressively or offensively
+- Interrupt others
+-Disagree with facts or obvious truths
