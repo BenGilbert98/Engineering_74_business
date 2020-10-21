@@ -42,16 +42,21 @@ The idea behind this diagram is that technology connects all the other sub trian
 - Remote working.
 
 ## Software Development Cycles
+### Waterfall
 
+![](waterfall.png)
 
+### V-Model
 
+![](v_model.png)
 
+### Agile
 
+![](agile.png)
 
+### Management Plans and SDLC's
 
-
-
-
+![](sdlc_chart)
 
 ## Attributes of mature teams
 - Co located
@@ -75,8 +80,6 @@ The idea behind this diagram is that technology connects all the other sub trian
 ## How to Identify Risk
 
 ![](risk_table.png)
-
-
 
 
 ## Sources of risk
