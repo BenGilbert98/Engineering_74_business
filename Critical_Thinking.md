@@ -57,6 +57,7 @@ Naïve Relativism
 
 ## The Enquiry Cycle
 
+![](inquiry_cycle.png)
 
 ## What questions might we ask when critically thinking?
 - What is the source of evidence?
