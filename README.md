@@ -14,7 +14,6 @@ git add .
 git commit -m " msg"
 git push -u origin main
 ```
-verfiy the changes 
 
 - Download Git or GitBash
 - Run GitBash
