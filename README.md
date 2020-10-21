@@ -14,10 +14,9 @@ git add .
 git commit -m " msg"
 git push -u origin main
 ```
-    go back to github repo to verfiy the changes and connections
+verfiy the changes 
 
 - Download Git or GitBash
-- Note: GitHub Desktop is superior
 - Run GitBash
 - `cd`
 - Make a folder 
@@ -31,36 +30,33 @@ git push -u origin main
 a random art image should then be displayed
 
 
-- Check that `key.ssh` exists with `ls` in your `Sparta` folder
+- Check that `key.ssh` exists with `ls`
 - Ensure you have git-agent `eval $(ssh-agent -s)`
 - Add the key `ssh-add key.ssh`
 - Go to your [Github](www.github.com) and go to `Settings`
 - "SSH and GPG keys" => "New SSH Key"
 - Back to terminal `cat key.ssh.pub`
-- Copy the entire thing you see in terminal
+- Copy into terminal
 - Paste it in your New SSH Key window and add a title
 - Back to terminal test your SHH to GitHub
 
 - Go to [Github](www.github.com) make a new repo
 - With your folder from before open in Bash
-- `git init` => Initialize a repo
+- To initialize a repo use `git init`
 - If you have files in that folder use `git add <file_name>`
-- If you want to add all files `git add *` or `git add .`
-- To add all files with similar name `git add some_*` => `*` is an ANY sign in linux
+- If you want to add all files `git add .`
 - If you want to make a file `touch FILE_NAME.FORMAT`
 - Edit the file
-- or use `nano README.md` => Save with `CTRL + X` => `y`
+- or use `nano README.md` => Save with `CTRL + X`
 - `git commit -m "commit name"` => Commit all the files
 - `git branch -M main` => Makes the "main" branch
-- `git remote add origin git@github.com:USER_NAME/Repo_name.git` => Link your folder to the github repo you've created (step 1)
 - `git push -u origin main` => Uploads all files
-- If you don't get any errors continue
-- If you make changes to any files:
+
+## Making Changes to files:
 - You need to add those files again (as above)
 - Make a new commit (again)
 - Push to origin
-- `ssh -T git@github.com`
-- When you get RSA Key fingerprint question => `yes`
+
 ### Common Commands
 Create file 
 `touch file_name`
