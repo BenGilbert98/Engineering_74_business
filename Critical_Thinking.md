@@ -59,57 +59,57 @@ Naïve Relativism
 
 
 ## What questions might we ask when critically thinking?
-	- What is the source of evidence?
-	- What did others see?
-	- Where is the evidence for these claims?
-	- What are the strengths and weaknesses?
-	- How clear are the points?
-	- Is it a balanced argument?
+- What is the source of evidence?
+- What did others see?
+- Where is the evidence for these claims?
+- What are the strengths and weaknesses?
+- How clear are the points?
+- Is it a balanced argument?
 
 ## What questions might we ask when critically thinking?
-	- What is the source of evidence?
-	- What did others see?
-	- Where is the evidence for these claims?
-	- What are the strengths and weaknesses?
-	- How clear are the points?
-	- Is it a balanced argument?
+- What is the source of evidence?
+- What did others see?
+- Where is the evidence for these claims?
+- What are the strengths and weaknesses?
+- How clear are the points?
+- Is it a balanced argument?
 
 ### What is an argument?
-	- Exchange of diverging views based on views or research
+- Exchange of diverging views based on views or research
 
 ### Basic Structure
-	- Claim (Present your argument in a clear statement)
-	- Evidence (Present evidence to support your claim)
-        - Impact (Explain the significance of the evidence)
+- Claim (Present your argument in a clear statement)
+- Evidence (Present evidence to support your claim)
+- Impact (Explain the significance of the evidence)
 ## Evaluating an argument
 
-Coherence
-	- Do claims make logical sense?
-	- Are the claims based on opinion or supported with evidence
-	- Are any assumptions made?
-	- Have all alternatives been considered?
+### Coherence
+- Do claims make logical sense?
+- Are the claims based on opinion or supported with evidence
+- Are any assumptions made?
+- Have all alternatives been considered?
 
-Supporting Evidence
-	- Does the evidence support all claims made?
-	- What is quality of evidence?
-	- Quality of data?
-	- Quality of interpretation?
+### Supporting Evidence
+- Does the evidence support all claims made?
+- What is quality of evidence?
+- Quality of data?
+- Quality of interpretation?
 
 ## What if we want to challenge the argument?
-	- Acknowledge the other person's view before challenging it
-	- Be constructive rather than simply dismissing the other person's point of view
-	- Reflect on the strengths of the other person's argument
-	- Think about your language and whether you risk being offensive before you speak
+- Acknowledge the other person's view before challenging it
+- Be constructive rather than simply dismissing the other person's point of view
+- Reflect on the strengths of the other person's argument
+- Think about your language and whether you risk being offensive before you speak
 
 ## Debating Language
-Do-s
-	- It can be argued that
-	- … tends to …
-	- There is evidence to suggest that
-	- It has been said that …
-Don't
-	- "I.."
-	- "I think that…"
+### Do-s
+- It can be argued that
+- … tends to …
+- There is evidence to suggest that
+- It has been said that …
+### Don't-s
+- "I.."
+- "I think that…"
 
 
  ## Logical Fallacies to look for
