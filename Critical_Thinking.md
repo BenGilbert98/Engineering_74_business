@@ -17,7 +17,7 @@
 ## Thinking Triangle
 Remember key facts , understand the fact, apply the understanding to try to solve problems. Analyse the solution to your problem and then synthesise the ideas by gathering all information into new solution.
 
-
+![](thinking_triangle.png)
 
 
 
