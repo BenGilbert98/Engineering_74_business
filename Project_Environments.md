@@ -23,12 +23,12 @@
 ## Triple Constraint
 Finding a balance in this triangle can be tricky and when one thing changes the others will have to change in order to maintain balance.
 
-![](triple_constraing.png)
+![](triple_constraint.png)
 
 ## POPIT model aka Holistic Triangle
 The idea behind this diagram is that technology connects all the other sub triangles.
 
-![](holistic_triangle)
+![](holistic_triangle.png)
 
 ## Benefits of a Project Being Managed Well
 
