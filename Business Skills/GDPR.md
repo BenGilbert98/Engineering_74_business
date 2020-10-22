@@ -1,4 +1,4 @@
-# GDPR
+# GDPR and Cyber Security
 - Understand GDPS
 - Understand types of data
 - Understand cyber security
@@ -81,6 +81,8 @@
 - Lock machine
 - Keep clear desk
 - Avoid storing data on USB
+
+
 
 # Cyber Security
 
