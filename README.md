@@ -91,6 +91,7 @@ Add image to file
 
 to create markdown name_of_file.md
 
+## New Repository
 …or create a new repository on the command line
 
 echo "# test" >> README.md
