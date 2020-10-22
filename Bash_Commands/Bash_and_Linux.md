@@ -8,7 +8,7 @@ pwd
 - How to create a Dir
 ```
 mkdir name_of_file
-``
+```
 
 - How to create a file
 ```
