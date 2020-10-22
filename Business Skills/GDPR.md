@@ -81,3 +81,47 @@
 - Lock machine
 - Keep clear desk
 - Avoid storing data on USB
+
+# Cyber Security
+
+## Why is it important
+- Protects the core functions of organisation
+- All staff should be aware about how they might be vulnerable
+- Your org is responsible for securing own systems and data
+## Who
+- Online criminals
+- Foreign governments
+- Hackers (Untargeted, agents of chaos)
+- Political activists
+- Terrorist organisations
+- Malicious insiders
+
+Good to point out sometimes its people making mistakes
+
+## How - Types of attack
+- Vishing - voice phishing
+- Smishing - SMS 
+- Phishing - legitimate looking emails
+- Impersonation
+- Water holing - infecting websites with malware
+- Malware - malicious software installed on a machine
+- Ransomware - locks you out of machine
+
+## Six principles to be aware of
+- Reciprocity
+- Commitment and Consistency
+- Social Proof
+- Authority
+- Liking
+- Scarcity
+
+## Counter-measures
+- Defend against phishing
+- Monitor digital footprint
+- Secure devices
+- Internet usage
+- Training Employees
+- Security Protocols
+- Event Test
+- Waste Management
+- Understanding the importance of reporting
